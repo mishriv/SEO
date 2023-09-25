@@ -1,0 +1,19 @@
+A favicon, short for "favorite icon," is a small graphical icon or image that represents a website or web page. Favicons are typically displayed in the browser's address bar, bookmarks, tabs, and other places to help users identify and visually distinguish different websites. 
+It is usually 16 * 16 pixels in size and stored in GIF, PNG, or ICO file format.
+
+They are used to improve user experience and enforce brand consistency. When a familiar icon is seen in the
+browser address bar.
+
+
+Example -
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>xyz</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+</body>
